@@ -1,3 +1,6 @@
+Run in a development environment of your choice and have at it :)
+Opens a cmd window. Nobody is getting hacked, don't worry.
+
 MIT License
 
 Copyright (c) 2020 hhannine
